@@ -1,0 +1,21 @@
+{
+  "tool_name": "stig_patch_cycle_analyzer.py",
+  "description": "Parses DISA STIG manuals in XCCDF format and produces analytical, delta, and executive summary outputs",
+  "execution_model": "standalone_cli",
+  "language": "python",
+  "dependencies": "python_standard_library_only",
+  "network_access": false,
+  "persistent_services": false,
+  "data_classification": "public_documentation_only",
+  "outputs": [
+    "CSV",
+    "JSON",
+    "JSONL",
+    "EXECUTIVE_PATCH_CYCLE_SUMMARY.txt",
+    "CHECKSUMS.sha256"
+  ],
+  "integrity": {
+    "hash_algorithm": "SHA-256",
+    "checksum_file": "CHECKSUMS.sha256"
+  }
+}
