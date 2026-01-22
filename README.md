@@ -153,6 +153,7 @@ Each run produces `CHECKSUMS.sha256` containing SHA-256 hashes for:
 - All generated CSV files
 - All generated JSON and JSONL files
 - Summary reports
+
 This enables:
 - Chain-of-custody verification
 - Artifact integrity validation
