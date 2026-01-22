@@ -4,7 +4,7 @@ stig_patch_cycle_analyzer.py
 Version: 1.0.0
 Author: Jamison Lewis
 License: MIT
-Copyright (c) 2026, Saorsa Industries
+Copyright (c) 2026, Saorsa Industries LLC
 
 Description:
 Standalone utility for parsing DISA STIG XCCDF manuals, generating
@@ -1473,4 +1473,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
