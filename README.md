@@ -376,7 +376,6 @@ You are free to:
 ## Support and Consulting
 
 This project is intentionally self-contained and dependency-free.
-- Issues and feature requests may be submitted via GitHub
 - Paid customization, extensions, and consulting may be offered independently
 - No obligation exists to provide support, updates, or enhancements
 - Inquiries: info@saorsaindustries.com
